@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+    color: red;
+}
+
+.link {
+    text-align: left;
+    color: red;
+    margin-left: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
